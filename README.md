@@ -9,6 +9,12 @@ A Python tool that sends DMs to a specific user from multiple Discord bot tokens
 
 ---
 
+## Video Showcase
+
+https://www.youtube.com/watch?v=R6wNrv8BFfg&ab_channel=17xet
+
+---
+
 ## ✨ Features
 
 - Load multiple bot tokens from a `tokens.json` file
