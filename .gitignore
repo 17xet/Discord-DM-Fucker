@@ -1,0 +1,10 @@
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+
+# Token file (keep secrets out of git)
+tokens.json
+
+# OS junk files
+.DS_Store
+Thumbs.db
